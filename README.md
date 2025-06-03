@@ -27,8 +27,6 @@
 
 ```text
 financial_gui_app/
-├── .gitignore
-├── LICENSE
 ├── README.md
 ├── main.py
 ├── requirements.txt
@@ -62,11 +60,6 @@ financial_gui_app/
 │       ├── output_stream.py
 │       ├── plotly-3.0.1.min.js
 └── tests/
-    ├── integration/
-    │   └── test_gui_interaction.py
-    └── unit/
-        ├── test_controllers.py
-        └── test_models.py
 ```
 
 ---
@@ -151,10 +144,11 @@ No formal test suite yet. Manual testing recommended:
 ## 📸 Screenshots
 
 > _Main Application View_
-> _Data Import Dialog_
-> _Auto Increment in Action_
+<img width="1312" alt="Screenshot 2025-06-04 at 00 05 38" src="https://github.com/user-attachments/assets/40c9c70f-580b-4d22-908b-94e8c8134d4d" />
 
-(*Screenshots to be added*)
+> _Data Logging In Action_
+<img width="1245" alt="Screenshot 2025-06-04 at 00 07 49" src="https://github.com/user-attachments/assets/495beb4e-a558-497c-9654-e4cef21b11bc" />
+
 
 ---
 
@@ -174,7 +168,7 @@ No formal test suite yet. Manual testing recommended:
 Contributions are welcome!
 
 ```bash
-git clone https://github.com/your-repo/FinancialGuiApp.git
+git clone https://github.com/a-dorgham/FinancialGuiApp.git
 cd FinancialGuiApp
 git checkout -b feature-name
 # Make changes
@@ -197,6 +191,6 @@ MIT License
 
 For bug reports, feature requests, or collaboration:
 
-- **GitHub Issues**: [FinancialApp Issues](https://github.com/a-dorgham/FEAnalysisApp/issues)
+- **GitHub Issues**: [FinancialApp Issues](https://github.com/a-dorgham/FinancialGuiApp/issues)
 - **Email**: a.k.y.dorgham@gmail.com
 - **Connect**: [LinkedIn](https://www.linkedin.com/in/abdeldorgham) | [GoogleScholar](https://scholar.google.com/citations?user=EOwjslcAAAAJ&hl=en)  | [ResearchGate](https://www.researchgate.net/profile/Abdel-Dorgham-2) | [ORCiD](https://orcid.org/0000-0001-9119-5111)
